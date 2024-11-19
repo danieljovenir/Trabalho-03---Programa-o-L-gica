@@ -118,4 +118,4 @@ Este módulo sugere possíveis teorias sobre o crime com base em evidências e f
 ### 1. Baixar o Repositório
 Clone o repositório para sua máquina local:
 ```bash
-git clone https://github.com/danieljovenir/nome-do-repositorio.git
+git clone https://github.com/danieljovenir/Trabalho-03---Programa-o-L-gica
